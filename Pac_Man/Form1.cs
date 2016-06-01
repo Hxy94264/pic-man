@@ -10,7 +10,7 @@ using System.IO;
 /*
  * 速度控制
  * 鬼追捕算法
- * */
+ */
 namespace Pac_Man
 {
     /*map
